@@ -2,6 +2,10 @@
 
 A full stack React application developed with AWS Amplify.
 
+# Video Demo
+
+https://youtu.be/Zo6feDW8yHY
+
 <img src="images-gifs/demogif.gif" width=600>
 
 ### Description
