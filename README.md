@@ -4,7 +4,7 @@ A full stack React application developed with AWS Amplify.
 
 # Video Demo
 
-https://youtu.be/Zo6feDW8yHY
+<video src='https://www.youtube.com/watch?v=Zo6feDW8yHY' width=180/>
 
 
 # GIF Demo
